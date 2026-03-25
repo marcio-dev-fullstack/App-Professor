@@ -1,10 +1,11 @@
 # e-SEMEC
 
 ## Frequência e Conteúdo - SEMEC Conceição do Araguaia
----
 
 ![Status](https://img.shields.io/badge/Status-Especifica%C3%A7%C3%A3o%20Inicial-blue)
 ![Version](https://img.shields.io/badge/Vers%C3%A3o-1.0-green)
+
+---
 
 Aplicativo mobile multiplataforma destinado aos professores da rede municipal de ensino de Conceição do Araguaia, Pará. O sistema permite o registro digital de frequência e conteúdo pedagógico, com sincronização offline e integração total com a plataforma **E-SEMEC**.
 
