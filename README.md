@@ -34,10 +34,11 @@ Para detalhes específicos, consulte os arquivos abaixo:
 ## Como Rodar o Projeto (Dev)
 *Instruções para o setup local serão adicionadas após a definição da stack final.*
 
----
 ## Autor
 
 **Márcio Rodrigues de Oliveira | Desenvolvedor Líder Fullstack | cda.marcio@gmail.com**
+
+---
 
 ### MIT License
 
